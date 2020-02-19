@@ -9,4 +9,4 @@ Voici la description de ces visuels, de type segment :
 
 SearchFilter : filtre sur champ de type texte par recherche multi-mots. Les mots n'ont pas nécessité d'être consécutifs. Lorsque plusieurs mots sont demandés, le filtre agit comme un ET logique.
 TimeFilter : filtre sur un champ de type date/heure permettant de choisir une période de temps sur un format de type YYYY-MM-DD HH:MM
-Le code source permettant de compiler ces visuels est également disponible.
+Le code source permettant de compiler ces visuels sera également disponible.
